@@ -5,4 +5,4 @@ Proyecto MVC con PHP 8 MySQL, CSS Grid, Flexbox, SASS, JavaScript/Fetch
 <br>
 Dependencias NPM: npm i
 <br>
-Dependencias Composer: composer update
+Dependencias Composer: composer install / composer update
